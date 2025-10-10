@@ -44,6 +44,7 @@ Here you can check the Data Model which is used for this project.
 
 Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
 
+![Trip_View](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Trip_View.png)
 
 2.   Passenger View
 
