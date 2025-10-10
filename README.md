@@ -6,11 +6,15 @@ Goodcabs, a leading cab service in tier-2 Indian cities, aims to evaluate its 20
 #  Tools & Technique:
 
 Microsoft Excel (v 2021)
+
 Microsoft Power BI Desktop
-Power BI Service
+
 Power Query
+
 Data Modeling
+
 DAX (Data Analysis Expression)
+
 ETL (Extract, Transformation & Load)
 
 #  Problem Statement:
