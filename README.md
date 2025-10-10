@@ -58,7 +58,7 @@ Measures passenger satisfaction levels per city to evaluate service quality. Tra
 Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
 
 
-![GOODCAB](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Goodcabs.pdf)
+![Monthly_Trend](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Monthly_Trend.png)
 
 
 #  Recommendations:
