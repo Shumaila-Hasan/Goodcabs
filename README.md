@@ -38,20 +38,16 @@ Here you can check the Data Model which is used for this project.
 
 ![data_model](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/goodcabs_data_Model.png)
 
-#Dashboard Overview:
+#  Dashboard Overview:
 
 1.  Trip View
 
 Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
 
-![Trip_View](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Trip_View.pdf)
-
 
 2.   Passenger View
 
 Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
-
-![Passenger View]("C:\Users\HP\Desktop\GoodCabs\Passenger_View.pdf")
 
 
 3.   Monthly Trend
@@ -59,14 +55,21 @@ Measures passenger satisfaction levels per city to evaluate service quality. Tra
 Shows trip volume trends across 10 tier-2 cities, highlighting total trips completed per month. Compares city-wise trip distribution, identifying high and low-performing cities. Tracks vehicle utilization and peak-month trip data to identify bottlenecks.
 
 
-![Monthly Trend]("C:\Users\HP\Desktop\GoodCabs\Monthly_Trend.pdf")
+![GOODCAB]()
 
 
-#Recommendations:
+#  Recommendations:
+
 Focus on improving service quality and offering personalized pricing plans for cities with lower repeat rates.
+
 Tailor marketing efforts to highlight tourism-related campaigns in high-demand periods and offer flexible services for business travelers e.g., loyalty program, ride packages for conferences.
+
 Gradually integrate electric or hybrid vehicles in tier-2 cities to stay competitive and consider offering discounts on eco-friendly rides.
+
 Collaborate with local businesses to offer joint promotions for e.g., free rides for shopping above a certain spend.
+
 Establish partnerships with event venues for exclusive discounts or bundled deals.
+
 Invest in a feedback system to collect qualitative data on passenger satisfaction and driver performance. Use predictive analytics to optimize supply-demand matching.
+
 
