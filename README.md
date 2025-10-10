@@ -24,12 +24,16 @@ However, due to the analytics manager's unavailability, the task has been assign
 The goal of this project is to deliver actionable insights on Goodcabs' performance in 10 tier-2 cities by analyzing key metrics,
 
 • Identify growth opportunities by understanding trip trends.
+
 • Enhance passenger satisfaction through targeted improvements.
+
 • Boost customer retention by increasing repeat passenger rates.
+
 • Optimize operations by balancing new and repeat passenger engagement.
+
 • Support strategic decision-making to achieve 2024 performance targets.
 
-#Data Modeling
+#  Data Modeling
 Here you can check the Data Model which is used for this project.
 
 ![data_model](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/goodcabs_data_Model.png)
@@ -40,7 +44,7 @@ Here you can check the Data Model which is used for this project.
 
 Provides insights on the proportion of new vs. repeat trips, helping gauge passenger loyalty. Displays the average number of trips per driver, highlighting workload imbalances. Analyzes average trip durations and identifies delays based on city and time patterns.
 
-![Trip_View]("C:\Users\HP\Desktop\GoodCabs\Trip_View.pdf")
+![Trip_View](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Trip_View.pdf)
 
 
 2.   Passenger View
