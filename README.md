@@ -50,6 +50,8 @@ Provides insights on the proportion of new vs. repeat trips, helping gauge passe
 
 Measures passenger satisfaction levels per city to evaluate service quality. Tracks the percentage of repeat passengers, indicating customer retention success. Breaks down passenger demographics (age, gender) to understand key customer segments.
 
+![Passenger_View](https://github.com/Shumaila-Hasan/Goodcabs/blob/main/Passenger_View.png)
+
 
 3.   Monthly Trend
 
