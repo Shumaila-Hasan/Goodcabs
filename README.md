@@ -17,6 +17,11 @@ DAX (Data Analysis Expression)
 
 ETL (Extract, Transformation & Load)
 
+
+#  Data Source:
+The datasets are provided by Codebasics Data Challenges.
+Data is available from January 2024 to June 2024.
+
 #  Problem Statement:
 Goodcabs, a cab service company, operates in 10 tier-2 cities in India and supports local drivers while providing excellent service to passengers. The company has set ambitious growth and passenger satisfaction targets for 2024.
 
